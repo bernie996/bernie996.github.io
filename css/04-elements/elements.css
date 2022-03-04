@@ -1,0 +1,17 @@
+body{
+    background-image: var(--page-background);
+    background-size: cover;
+}
+header{
+    margin-bottom: 50px;
+}
+main{
+    margin: 0px auto;
+    width: 90%;
+    background-color: var(--main--bg--color);
+    display: flex;
+    flex-direction: row;
+}
+a{
+    text-decoration: none;
+}

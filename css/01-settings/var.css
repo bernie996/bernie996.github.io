@@ -1,0 +1,10 @@
+:root{
+    --page-background: url('./../../media/img/background.gif');
+    /*header*/
+    --header-upper-bg-color: rgba(255,255,255,1);
+    --header-lower-bg-color: rgba(0,0,0,0.0);
+    --header-lower-bg-color-hover: rgba(0,0,0,0.5);
+    /*Main*/
+    --main--bg--color: rgba(255,255,255,1);
+    --box-shadow-down: -1px 2px 2px rgb(255, 255, 255);
+}
